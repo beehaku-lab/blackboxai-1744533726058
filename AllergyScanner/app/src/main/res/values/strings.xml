@@ -1,0 +1,55 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">AllerSafe</string>
+
+    <!-- Main Activity -->
+    <string name="scan_product">Scan Product</string>
+    <string name="scan_product_description">Scan ingredient lists for allergens</string>
+    <string name="manage_allergens">Manage Allergens</string>
+    <string name="manage_allergens_description">Add or remove allergens to track</string>
+    <string name="scan_history">Scan History</string>
+    <string name="scan_history_description">View your previous scans</string>
+
+    <!-- Scan Activity -->
+    <string name="scan_button">Scan</string>
+    <string name="analyze_button">Analyze</string>
+    <string name="text_recognition_failed">Text recognition failed: %1$s</string>
+    <string name="allergen_warning_title">Allergen Warning</string>
+    <string name="allergen_warning_message">Potential allergens were detected in the scanned product.</string>
+    <string name="view_details">View Details</string>
+    <string name="no_allergens_detected">✅ No allergens detected</string>
+
+    <!-- Allergen Management -->
+    <string name="allergen_management_title">Manage Allergens</string>
+    <string name="add_allergen">Add Allergen</string>
+    <string name="add_allergen_hint">Enter the name of the allergen you want to track</string>
+    <string name="allergen_examples">Example: peanuts, gluten, dairy</string>
+    <string name="save">Save</string>
+    <string name="help">Help</string>
+    <string name="help_title">Allergen Management Help</string>
+    <string name="help_message">Add the allergens you need to avoid. The app will scan product ingredients and warn you if any of these are detected.</string>
+
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="coming_soon">Coming soon</string>
+
+    <!-- Allergen Safety Info -->
+    <string name="high_risk_warning">⚠️ High Risk: This allergen was clearly identified in the product. We strongly recommend avoiding this product.</string>
+    <string name="medium_risk_warning">⚠️ Caution: This allergen may be present in the product. We recommend carefully reviewing the full ingredient list.</string>
+    <string name="low_risk_warning">⚠️ Potential Trace: This allergen might appear in minor amounts. Consider your sensitivity level before consuming.</string>
+
+    <!-- Onboarding -->
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    
+    <string name="onboarding_title_1">Scan for Allergens</string>
+    <string name="onboarding_desc_1">Take a photo of ingredient lists to detect potential allergens you need to avoid</string>
+    
+    <string name="onboarding_title_2">Manage Your Allergens</string>
+    <string name="onboarding_desc_2">Add the specific foods you\'re allergic to for personalized scanning</string>
+    
+    <string name="onboarding_title_3">Stay Safe</string>
+    <string name="onboarding_desc_3">Get clear warnings when potential allergens are detected in scanned products</string>
+</resources>
